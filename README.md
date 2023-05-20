@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush-Pandey-7
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Web Development
-- 💞️ You can email meon programmerayush95@gmail.com
+- 💞️ You can email me on programmerayush95@gmail.com
 - 💻 Link to my website https://ayushpandey.my.canva.site/
 - 🧑‍💻 Don't forget to subscribe my youtube channel www.youtube.com/@PTS7
 <!---
